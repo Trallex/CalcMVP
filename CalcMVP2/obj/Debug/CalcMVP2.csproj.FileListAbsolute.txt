@@ -8,3 +8,13 @@ c:\users\jakub\source\repos\CalcMVP2\CalcMVP2\bin\Debug\CalcMVP2.exe
 c:\users\jakub\source\repos\CalcMVP2\CalcMVP2\bin\Debug\CalcMVP2.pdb
 c:\users\jakub\source\repos\CalcMVP2\CalcMVP2\obj\Debug\CalcMVP2.exe
 c:\users\jakub\source\repos\CalcMVP2\CalcMVP2\obj\Debug\CalcMVP2.pdb
+C:\Users\Jakub\source\repos\CalcMVP2\CalcMVP\CalcMVP2\bin\Debug\CalcMVP2.exe.config
+C:\Users\Jakub\source\repos\CalcMVP2\CalcMVP\CalcMVP2\bin\Debug\CalcMVP2.exe
+C:\Users\Jakub\source\repos\CalcMVP2\CalcMVP\CalcMVP2\bin\Debug\CalcMVP2.pdb
+C:\Users\Jakub\source\repos\CalcMVP2\CalcMVP\CalcMVP2\obj\Debug\CalcMVP2.csprojAssemblyReference.cache
+C:\Users\Jakub\source\repos\CalcMVP2\CalcMVP\CalcMVP2\obj\Debug\CalcMVP2.View.resources
+C:\Users\Jakub\source\repos\CalcMVP2\CalcMVP\CalcMVP2\obj\Debug\CalcMVP2.Properties.Resources.resources
+C:\Users\Jakub\source\repos\CalcMVP2\CalcMVP\CalcMVP2\obj\Debug\CalcMVP2.csproj.GenerateResource.cache
+C:\Users\Jakub\source\repos\CalcMVP2\CalcMVP\CalcMVP2\obj\Debug\CalcMVP2.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\source\repos\CalcMVP2\CalcMVP\CalcMVP2\obj\Debug\CalcMVP2.exe
+C:\Users\Jakub\source\repos\CalcMVP2\CalcMVP\CalcMVP2\obj\Debug\CalcMVP2.pdb
